@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 /Users/jfall/eclipse-workspace/ten_tec_Pegasus_serial/src/pegasus_flask.py /dev/cu.usbserial-AQ00T6NF
